@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-boxes/home/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"banner":"https://api.dujin.org/bing/1920.php","banner_y":0.624,"banner_lock":true,"banner_icon":"🏡","obsidianUIMode":"preview","permalink":"/1-boxes/home/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # Home
